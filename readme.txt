@@ -1,4 +1,4 @@
 xiaoji
 xiaoya
 xiaogou
-小强强
+Creating a new branch is quick AND simple.
